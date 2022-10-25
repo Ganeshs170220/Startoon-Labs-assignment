@@ -1,5 +1,5 @@
 # Startoon-Labs-assignment
-Here i am attaching the Hosted webpate link.
+Here i am attaching the Hosted webpage link.
 https://ganeshs170220.github.io/Startoon-Labs-assignment/
 # Note:
 After filled the fields press 'Enter' the get the required results.
