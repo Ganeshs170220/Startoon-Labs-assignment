@@ -12,4 +12,4 @@ Q1. Calculate the given input value from keyboard plot on the Vertical Progress 
   3. Use logic if Input Value is greater than Max Value then show pop or error alert
   4. Create vertical progress bar with Max Value as 100%
   5. Now plot the input Value and Max Value in Percentage of the show on the Vertical Progress Bar.
-Technology: HTML, CSS ,Java Script
+  6. Technology: HTML, CSS ,Java Script
